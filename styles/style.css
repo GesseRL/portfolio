@@ -28,7 +28,7 @@ body {
 .cabecalho__menu__link{
     font-family: var(--secondary-font);
     font-size: 1.5rem;
-    font-weight: 600px;
+    font-weight: 600;
     color:var(--secondary-text-color);
     text-decoration: none;
 }
